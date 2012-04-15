@@ -1,8 +1,6 @@
-df82a5c41af608766a94503127fb7677 *DESCRIPTION
+9dccdd522fdedfa160bdb20e7acc2f10 *DESCRIPTION
 9d136b2432f835e42335bd0f5a3ea054 *NAMESPACE
-b5e58f1a1772f6caf7e91fde1f11a3c4 *NEWS
-892b0339696bfc4a8c21b27574035b7c *R/cec2005benchmark.R
-c86782997f0923def884204d070472e0 *inst/CITATION
+761a1f6e4a7cad65e0bed1680cf23b9d *R/cec2005benchmark.R
 a031c99a06657d4f1b8f95a523f1417d *inst/extdata/EF8F2_func_data.txt
 9f96c188ab8722a52a5449985a8d535a *inst/extdata/E_ScafferF6_M_D10.txt
 cc2da0153dd517d93ab6c3dab6e6e88e *inst/extdata/E_ScafferF6_M_D2.txt
@@ -116,9 +114,10 @@ e4a88c229053395283ee5a6f6bc9b028 *man/cec2005benchmark5.Rd
 e339556f7bec963516ce202ee00ba538 *man/cec2005benchmark7.Rd
 52ec86568213b6302685b5aee9a91f6c *man/cec2005benchmark8.Rd
 a0a52cc2e3d20c00df606a27d11e13a3 *man/cec2005benchmark9.Rd
+e6a608a8ef12f8327b91d640e2501a3b *src/Makevars
 0a75bf2203e4b842aea8b6a47b3f456e *src/cec2005benchmark.c
 f747003cea188d0c5ecf0390bd3de7f2 *src/def1.c
-5d5a297cc9f4c8bc166845fb6260278d *src/def2.c
+911c11638e5cfdcea74bdeebd694d7fa *src/def2.c
 0f428575b2b54b7ea54af44f19b1293f *src/def3.c
 e8b5c672aa7c6bc8fbeda7b9c14dea60 *src/def4.c
 fc753d5578fbb3b89557bd4a765db2ce *src/global.h
@@ -126,5 +125,5 @@ fc753d5578fbb3b89557bd4a765db2ce *src/global.h
 c4ba46712ec3f4ecf356b9d12c64c141 *src/rand.c
 00dcde99352481ddbea4d8cff4b010d3 *src/rand.h
 77880fdf69165ccdc21870463fa3cbca *src/sub.h
-24a20835e37471f1c97edd2d71f19f72 *tests/test_data.R
-885291e8cbee8bfd18f55f0a80f64746 *tests/test_global_optima.R
+de1d29f6785aa208d9a41199cb0a826e *tests/test_data.R
+242c87ec25ac2d09c7c481c64c50e04f *tests/test_global_optima.R
