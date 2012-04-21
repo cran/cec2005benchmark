@@ -1,0 +1,8 @@
+Changes in version 1.0.1:
+
+  * Removed an unneeded src/Makevars file.
+  * Added a inst/CITATION file.
+
+Changes in version 1.0.0:
+
+  * First public release.
