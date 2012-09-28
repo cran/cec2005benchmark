@@ -1,7 +1,7 @@
-2319169b70a4bef32ef93c3387594e15 *DESCRIPTION
+15580ebea575ad7be0be9aa7073ab6c4 *DESCRIPTION
 9d136b2432f835e42335bd0f5a3ea054 *NAMESPACE
-287479d1034404c725e2adbfd03881d8 *NEWS
-761a1f6e4a7cad65e0bed1680cf23b9d *R/cec2005benchmark.R
+83949c0b20033c5b58813f796c7eb1a8 *NEWS
+892b0339696bfc4a8c21b27574035b7c *R/cec2005benchmark.R
 c86782997f0923def884204d070472e0 *inst/CITATION
 a031c99a06657d4f1b8f95a523f1417d *inst/extdata/EF8F2_func_data.txt
 9f96c188ab8722a52a5449985a8d535a *inst/extdata/E_ScafferF6_M_D10.txt
@@ -126,5 +126,5 @@ fc753d5578fbb3b89557bd4a765db2ce *src/global.h
 c4ba46712ec3f4ecf356b9d12c64c141 *src/rand.c
 00dcde99352481ddbea4d8cff4b010d3 *src/rand.h
 77880fdf69165ccdc21870463fa3cbca *src/sub.h
-de1d29f6785aa208d9a41199cb0a826e *tests/test_data.R
+f34c32551ddf696ff5448a16b5987825 *tests/test_data.R
 242c87ec25ac2d09c7c481c64c50e04f *tests/test_global_optima.R
